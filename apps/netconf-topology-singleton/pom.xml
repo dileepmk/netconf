@@ -29,6 +29,11 @@
             <optional>true</optional>
         </dependency>
         <dependency>
+    	   <groupId>com.hierynomus</groupId>
+	   <artifactId>sshj</artifactId>
+	   <version>0.27.0</version>
+	</dependency>
+        <dependency>
             <groupId>com.github.spotbugs</groupId>
             <artifactId>spotbugs-annotations</artifactId>
             <optional>true</optional>
